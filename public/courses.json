@@ -1,0 +1,52 @@
+[
+    {
+      "id": "6431280684bddda0bb947844",
+      "balance": "$2,006.36",
+      "picture": "https://img.freepik.com/free-photo/he-studying-with-help-technology_329181-19636.jpg?w=996&t=st=1680946327~exp=1680946927~hmac=8130591629740dc72c5c3682459379e6970051371b6fc899310f3b35cfcc8971",
+      "name": "Computer Science",
+      "gender": "female",
+      "department": "Dept. Of Engineering",
+      "email": "kristyschwartz@elentrix.com",
+      "phone": "+1 (807) 483-3430"
+    },
+    {
+      "id": "64312806ef388eb8eea62c7c",
+      "balance": "$3,394.23",
+      "picture": "https://img.freepik.com/free-photo/friends-people-group-teamwork-diversity_53876-31488.jpg?w=1060&t=st=1680947620~exp=1680948220~hmac=45dacfb2c74180c39719d3584b868d4ac9e0b1b9208bc8038755d2a526317a41",
+      "name": "Math",
+      "gender": "male",
+      "department": "Dept. Of Mathematics",
+      "email": "thorntonhewitt@kaggle.com",
+      "phone": "+1 (868) 469-2934"
+    },
+    {
+      "id": "6431280608659ad4de5f9e45",
+      "balance": "$3,128.37",
+      "picture": "https://img.freepik.com/premium-photo/attractive-female-teacher-holding-flashcards-teaching-colors-kindergarten-children-during-virtual-class_662251-2462.jpg?w=996",
+      "name": "Drawing",
+      "gender": "female",
+      "department": "Dept. Of Culture",
+      "email": "twilarowland@overfork.com",
+      "phone": "+1 (817) 549-2929"
+    },
+    {
+      "id": "6431280629731fa3b0a0775d",
+      "balance": "$1,700.58",
+      "picture": "https://img.freepik.com/free-photo/businesswoman-talking-her-psychologist_1098-1824.jpg?w=996&t=st=1680948420~exp=1680949020~hmac=50c0ce589a5c5293658a8b98ea8bc9de7969aa16c8116b8a9ee0ddf481b9f906",
+      "name": "Psychology",
+      "gender": "female",
+      "department": "Dept. Of Public Health",
+      "email": "cassieday@austech.com",
+      "phone": "+1 (978) 426-3769"
+    },
+    {
+      "id": "643128068e58229c6020a113",
+      "balance": "$2,795.00",
+      "picture": "https://img.freepik.com/free-vector/people-with-education-related-icons_53876-59898.jpg?w=900&t=st=1680949083~exp=1680949683~hmac=35a7e0cf67601099cdf05a781d323f4f82b8b93b2dc4137301b1ff1de665e776",
+      "name": "Humanities",
+      "gender": "female",
+      "department": "Dept. Of Humanities",
+      "email": "lynnettemichael@inquala.com",
+      "phone": "+1 (814) 501-2409"
+    }
+  ]
